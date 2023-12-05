@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PotatoSmuggler69</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Manna</h1>
 <h3 align="center">Breaking things professionally – Some call me a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potatosmuggler69&label=Profile%20views&color=0e75b6&style=flat" alt="potatosmuggler69" /> </p>
