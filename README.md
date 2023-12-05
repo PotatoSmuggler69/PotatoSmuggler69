@@ -38,7 +38,7 @@
 
 <hr class="rounded">
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishekmanna" 
     target="blank">
@@ -58,7 +58,7 @@
 
 <hr class="rounded">
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools:</h1>
 <p align="center"> 
 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -105,14 +105,22 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/> </a> 
 
 </p>
+<hr class="rounded">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=potatosmuggler69&show_icons=true&locale=en&layout=compact" alt="potatosmuggler69" /></p>
+<p>
+  <h1>Statistics</h1>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=potatosmuggler69&show_icons=true&locale=en&layout=compact" alt="potatosmuggler69" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potatosmuggler69&show_icons=true&locale=en" alt="potatosmuggler69" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potatosmuggler69&show_icons=true&locale=en" alt="potatosmuggler69" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potatosmuggler69&" alt="potatosmuggler69" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=potatosmuggler69&label=Profile%20views&color=0e75b6&style=flat" alt="potatosmuggler69" /> </p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potatosmuggler69&" alt="potatosmuggler69" /></p>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=potatosmuggler69" alt="potatosmuggler69" /></a> </p>
+<hr class="rounded">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> 
+    <h1>Trophies</h1>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=potatosmuggler69" alt="potatosmuggler69" />
+  </a> 
+</p>
