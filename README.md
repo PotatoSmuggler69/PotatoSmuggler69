@@ -18,14 +18,15 @@
 
 
 <h1 align="center">
-  Hi <break/>
+  Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="52px">
+  <br>
   I'm Abhishek
 </h1>
 
 <h3 align="center">Breaking things professionally – Some call me a developer.</h3>
 
-
+<hr class="rounded">
 
 - 🔭 I’m currently working on **Android Frameworks**
 
@@ -35,10 +36,12 @@
 
 - 📫 How to reach me **abhishekmanna38@gmail.com**
 
+<hr class="rounded">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishekmanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekmanna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abhishek_manna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishek_manna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishekmanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekmanna" height="60" width="80" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/abhishek_manna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishek_manna" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
