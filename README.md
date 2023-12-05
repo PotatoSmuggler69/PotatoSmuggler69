@@ -17,7 +17,12 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="45px">Welcome to my GitHub Profile! </h1>, I'm Abhishek Manna</h1>
+<h1 align="center">
+  Hi <break/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="52px">
+  I'm Abhishek
+</h1>
+
 <h3 align="center">Breaking things professionally – Some call me a developer.</h3>
 
 
