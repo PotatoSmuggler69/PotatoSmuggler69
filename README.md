@@ -1,3 +1,12 @@
+
+
+<p align="center">
+  <img style="display: block;
+    -webkit-user-select: none;margin: auto;
+    background-color: hsl(0, 0%, 90%);" 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+</p>
+
 <p align="center">
   <img style="display: block;
               -webkit-user-select: none;
@@ -8,15 +17,6 @@
       width="300" 
       height="200">
 </p>
-
-<p align="center">
-  <img style="display: block;
-    -webkit-user-select: none;margin: auto;
-    background-color: hsl(0, 0%, 90%);" 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-</p>
-
-
 <h1 align="center">
   Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="52px">
