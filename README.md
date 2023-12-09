@@ -1,15 +1,5 @@
-
-
-
-
-
 <p align="center">
-    <img style="display: block;
-    -webkit-user-select: none;margin: auto;
-    background-color: hsl(0, 0%, 90%);" 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
-  <img style="display: block;
+<img style="display: block;
               -webkit-user-select: none;
               margin: auto;
               cursor: zoom-out;
@@ -17,6 +7,15 @@
       src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3OTM1NjUsIm5iZiI6MTcwMTc5MzI2NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDE2MjEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmOWI1NjUxMTUxMDJhYmJiNDBiNDI5ZmY5MDhjNDlmNjg0NWM2Njc1MDE4M2Y0YmIzMmRmYTBjNzExNTk1M2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Nvx-qOCU66ZKeDQSjJZviZWRoOVwKvllKcsvsYaqm68" 
       width="300" 
       height="200">
+
+</p>
+
+<p align="center">
+    <img style="display: block;
+    -webkit-user-select: none;margin: auto;
+    background-color: hsl(0, 0%, 90%);" 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
 </p>
 <h1 align="center">
   Hi 
